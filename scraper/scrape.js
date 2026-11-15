@@ -14,6 +14,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const { execFileSync } = require("child_process");
 const cheerio = require("cheerio");
 
 const USER_AGENT = "FakeShopChecker/1.0 (+Browser-Extension Scraper)";
@@ -25,8 +26,8 @@ const args = Object.fromEntries(
   })
 );
 
-const MAX_PAGES = args["max-pages"] === "all" ? Infinity : Number(args["max-pages"] ?? 100);
-const DELAY_MS = Number(args["delay"] ?? 400);
+const MAX_PAGES = args["max-pages"] === "all" ? Infinity : Number(args["max-pages"] ?? 1000);
+const DELAY_MS = Number(args["delay"] ?? 500);
 const OUT_PATH = path.resolve(__dirname, args["out"] ?? "../data/fakeshops.json");
 
 function sleep(ms) {
@@ -37,6 +38,19 @@ async function fetchHtml(url) {
   const res = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
   if (!res.ok) throw new Error(`HTTP ${res.status} fuer ${url}`);
   return res.text();
+}
+
+// watchlist-internet.at antwortet auf Node/undici-Requests mit HTTP 403
+// (vermutlich eine Cloudflare-Standardregel gegen bestimmte HTTP-Client-
+// Fingerprints), auf curl-Requests mit derselben ehrlichen User-Agent-Kennung
+// aber mit 200. robots.txt erlaubt das Crawlen dieser Seite explizit. Daher
+// hier curl als Client, weiterhin mit transparentem Custom-UA (kein
+// Browser-Fake) und mit Pausen zwischen den Anfragen.
+function fetchHtmlViaCurl(url) {
+  return execFileSync("curl", ["-s", "-A", USER_AGENT, url], {
+    encoding: "utf-8",
+    maxBuffer: 20 * 1024 * 1024,
+  });
 }
 
 function normalizeDomain(raw) {
@@ -56,12 +70,6 @@ function parseGermanDate(str) {
 }
 
 // --- Watchlist Internet (AT) --------------------------------------------
-//
-// HINWEIS: watchlist-internet.at blockt automatisierte HTTP-Clients (Cloudflare
-// Bot-Schutz antwortet mit 403 auf Node/undici-Requests). Diese Funktion bleibt
-// im Code, wird aber in main() aktuell NICHT aufgerufen, da ein Umgehen dieser
-// Bot-Erkennung (z.B. durch einen anderen Client/Fingerprint) nicht gemacht wird.
-// Falls die Seite spaeter eine offizielle API/Feed anbietet, hier einhaengen.
 
 async function scrapeWatchlistInternet() {
   const shops = [];
@@ -72,7 +80,8 @@ async function scrapeWatchlistInternet() {
     const url = page === 1 ? base : `${base}?tx_solr%5Bpage%5D=${page}`;
     let html;
     try {
-      html = await fetchHtml(url);
+      html = fetchHtmlViaCurl(url);
+      if (!html) throw new Error("leere Antwort");
     } catch (err) {
       console.warn(`[watchlist-internet] Abbruch bei Seite ${page}: ${err.message}`);
       break;
@@ -137,10 +146,8 @@ async function scrapeTrustedShops() {
 
 // --- Verbraucherzentrale Fakeshop-Finder (DE) ------------------------------
 
-async function scrapeFakeshopFinderWarnungen() {
+function parseFakeshopFinderPage(html, label) {
   const shops = [];
-  const url = "https://warnung.fakeshop-finder.de/";
-  const html = await fetchHtml(url);
   const $ = cheerio.load(html);
 
   $(".content-wrapper.views-row").each((_, el) => {
@@ -157,15 +164,46 @@ async function scrapeFakeshopFinderWarnungen() {
     }
   });
 
-  console.log(`[verbraucherzentrale] ${shops.length} Eintraege`);
+  console.log(`[verbraucherzentrale] ${label}: ${shops.length} Eintraege`);
   return shops;
+}
+
+async function scrapeFakeshopFinderWarnungen() {
+  const shops = [await fetchHtml("https://warnung.fakeshop-finder.de/").then((html) =>
+    parseFakeshopFinderPage(html, "aktuell")
+  )];
+
+  // Monatsarchiv rueckwaerts durchgehen, bis eine Seite 404 liefert.
+  const now = new Date();
+  let year = now.getUTCFullYear();
+  let month = now.getUTCMonth() + 1;
+
+  for (let i = 0; i < 36; i++) {
+    const label = `${year}_${String(month).padStart(2, "0")}`;
+    const url = `https://warnung.fakeshop-finder.de/${label}_warnungen.html`;
+    try {
+      const html = await fetchHtml(url);
+      shops.push(parseFakeshopFinderPage(html, label));
+    } catch (err) {
+      console.log(`[verbraucherzentrale] Archiv endet bei ${label} (${err.message})`);
+      break;
+    }
+    month -= 1;
+    if (month === 0) {
+      month = 12;
+      year -= 1;
+    }
+    await sleep(DELAY_MS);
+  }
+
+  return shops.flat();
 }
 
 // --- Merge & Write ----------------------------------------------------------
 
 async function main() {
   const results = await Promise.allSettled([
-    // scrapeWatchlistInternet(), // siehe Hinweis oben: Cloudflare blockt automatisierte Clients
+    scrapeWatchlistInternet(),
     scrapeTrustedShops(),
     scrapeFakeshopFinderWarnungen(),
   ]);

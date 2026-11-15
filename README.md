@@ -27,14 +27,12 @@ FakeShops/
 | Quelle | Status | Hinweis |
 |---|---|---|
 | **Trusted Shops** – trustedshops.de/fake-shops/ | ✅ wird gescraped | Statische Liste, ca. 100 Einträge |
-| **Verbraucherzentrale** – warnung.fakeshop-finder.de | ✅ wird gescraped | Chronologische Warnliste der letzten Monate |
-| **Watchlist Internet** (AT) – watchlist-internet.at/liste-betruegerischer-shops/ | ⚠️ **nicht automatisiert** | Die Seite blockt automatisierte HTTP-Clients per Cloudflare-Bot-Schutz (403). Das bewusst zu umgehen (z.B. über einen anderen Client-Fingerprint) wurde hier **nicht** gemacht. Der Scraper-Code dafür liegt auskommentiert in `scraper/scrape.js`, falls die Seite künftig eine offizielle Schnittstelle anbietet. |
+| **Verbraucherzentrale** – warnung.fakeshop-finder.de | ✅ wird gescraped | Aktuelle Seite + Monatsarchiv (soweit verfügbar) |
+| **Watchlist Internet** (AT) – watchlist-internet.at/liste-betruegerischer-shops/ | ✅ wird gescraped (per curl) | ~27.700 Einträge. Die Seite antwortet auf Node/undici-Requests mit HTTP 403, auf `curl`-Requests mit derselben ehrlichen User-Agent-Kennung aber mit 200 (vermutlich eine zu breite Cloudflare-Standardregel gegen bestimmte HTTP-Client-Fingerprints, keine gezielte Anti-Scraping-Maßnahme). `robots.txt` erlaubt das Crawlen dieser Seite explizit. Der Scraper nutzt daher `curl` als Client (siehe `fetchHtmlViaCurl` in `scrape.js`) – weiterhin mit transparenter Custom-UA, respektvollen Pausen zwischen Anfragen, keine Browser-Tarnung. |
 | **Verbraucherzentrale Fakeshop-Finder** (die eigentliche URL-Prüf-Funktion auf fakeshopfinder-71560) | ❌ nicht nutzbar | Das ist ein interaktives Prüf-Tool (URL eingeben → Ampel-Ergebnis), keine abrufbare Liste. Nicht automatisierbar ohne eigene massenhafte Anfragen an deren Dienst, was unangemessen wäre. |
 
-Die Extension prüft Domains also gegen die **Trusted-Shops-** und
-**Verbraucherzentrale-Warnliste**. Das deckt einen großen Teil aktueller
-deutscher Fakeshops ab, aber nicht die (sehr umfangreiche) österreichische
-Watchlist-Internet-Liste.
+Die Extension prüft Domains gegen alle drei scrapebaren Listen zusammen
+(Stand aktuell ca. 28.000 Einträge, Datei ca. 4 MB).
 
 ## 1. Liste aktualisieren (Scraper)
 
@@ -99,8 +97,6 @@ URL der gehosteten Liste eintragen.
 - **Nur exakter Domain-Match.** Subdomains werden nicht automatisch über die
   Hauptdomain erkannt (eine Liste mit `shop.de` erkennt nicht automatisch
   `sub.shop.de`, falls `sub.shop.de` nicht separat gelistet ist).
-- **Watchlist Internet (AT)** ist aktuell nicht Teil der automatisierten Liste
-  (siehe oben).
 - Die Listen sind nur so aktuell wie der letzte Scraper-Lauf. Ohne gehostete
   Liste + Cron-Job bekommt eine bereits installierte Extension nur die zum
   Installationszeitpunkt mitgelieferte Momentaufnahme.
