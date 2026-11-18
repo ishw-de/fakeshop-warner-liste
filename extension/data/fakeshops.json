@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:17:34.493Z",
+  "generatedAt": "2026-11-18T13:00:24.677Z",
   "sourceUrls": {
     "watchlist-internet.at": "https://www.watchlist-internet.at/liste-betruegerischer-shops/",
     "trustedshops.de": "https://www.trustedshops.de/fake-shops/",
@@ -911,6 +911,14 @@
       "note": "Der Fakeshop-Finder warnt vor ecoworkss.store. Schauen Sie sich die Warnung im Detail an."
     },
     {
+      "domain": "edelmetalle-web.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-16",
+      "note": "Der Fakeshop-Finder warnt vor edelmetalle-web.de. Schauen Sie sich die Warnung im Detail an."
+    },
+    {
       "domain": "edelmetallshop24.com",
       "sources": [
         "verbraucherzentrale.de"
@@ -963,6 +971,14 @@
       "listedSince": null
     },
     {
+      "domain": "elektrocenters.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-17",
+      "note": "Warnung: Dieser Fakeshop wird in Suchmaschinen wie Google oder Bing mit Texten und Produktanzeigen beworben."
+    },
+    {
       "domain": "elektrodepo.de",
       "sources": [
         "trustedshops.de"
@@ -997,14 +1013,6 @@
       ],
       "listedSince": "2026-11-03",
       "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
-    },
-    {
-      "domain": "erzgebirger-uhrwerk.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-04-17",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei erzgebirger-uhrwerk.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
       "domain": "escobike.shop",
@@ -1675,6 +1683,14 @@
       "note": "Der Fakeshop-Finder warnt vor heizoel-bio.com. Schauen Sie sich die Warnung im Detail an."
     },
     {
+      "domain": "heizoel-classic.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-17",
+      "note": "Warnung: Dieser Fakeshop wird in Suchmaschinen wie Google oder Bing mit Texten und Produktanzeigen beworben."
+    },
+    {
       "domain": "heizoel-direktkauf.de",
       "sources": [
         "trustedshops.de"
@@ -1773,6 +1789,14 @@
       "listedSince": null
     },
     {
+      "domain": "hewil-heizung.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-17",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
+    },
+    {
       "domain": "hinato-tech.de",
       "sources": [
         "verbraucherzentrale.de"
@@ -1844,14 +1868,6 @@
       "note": "Der Fakeshop-Finder warnt vor holzgluck.de. Schauen Sie sich die Warnung im Detail an."
     },
     {
-      "domain": "holzgutexpress.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Fake-Shops wie holzgutexpress.de liefern nicht oder es kommt nur minderwertige Ware."
-    },
-    {
       "domain": "holzhandelholzhauer.com",
       "sources": [
         "verbraucherzentrale.de"
@@ -1889,6 +1905,14 @@
       ],
       "listedSince": "2026-09-30",
       "note": "Es liegen Erkenntnisse vor, dass es sich bei holzliefernexpress.de um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
+    },
+    {
+      "domain": "holzpro24.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-17",
+      "note": "Fake-Shops wie holzpro24.com liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
       "domain": "holzregional.de",
@@ -1944,6 +1968,14 @@
       ],
       "listedSince": "2026-08-14",
       "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer. Der Fakeshop war früher unter hornwald.com aktiv."
+    },
+    {
+      "domain": "hortura.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-06-30",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "hselbe-fahrrad.de",
@@ -2023,6 +2055,14 @@
       ],
       "listedSince": "2026-10-22",
       "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
+    },
+    {
+      "domain": "kaminholzhalstenbekgmbh.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-17",
+      "note": "Warnung: Dieser Fakeshop wird in Suchmaschinen wie Google oder Bing mit Texten und Produktanzeigen beworben."
     },
     {
       "domain": "kanzlei-hexental.de",
@@ -2267,14 +2307,6 @@
       "note": "Der Fakeshop-Finder warnt vor magiluxe-store.com. Schauen Sie sich die Warnung im Detail an."
     },
     {
-      "domain": "mahlwerk-meisterei.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei mahlwerk-meisterei.de um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
-    },
-    {
       "domain": "mahroboterhaus.myshopify.com",
       "sources": [
         "verbraucherzentrale.de"
@@ -2304,6 +2336,14 @@
       ],
       "listedSince": "2026-09-25",
       "note": "Fake-Shops wie market.ashfielden.com liefern nicht oder es kommt nur minderwertige Ware."
+    },
+    {
+      "domain": "market.fieldcrofton.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-09-02",
+      "note": "Der Fakeshop-Finder warnt vor market.fieldcrofton.com. Schauen Sie sich die Warnung im Detail an."
     },
     {
       "domain": "market.galeririva.com",
@@ -2637,12 +2677,12 @@
       "note": "Fake-Shops wie nordza.de liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
-      "domain": "nowfahrrad.de",
+      "domain": "oel-check.com",
       "sources": [
         "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-09-23",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei nowfahrrad.de um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
+      "listedSince": "2026-11-17",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "ogrodmarket.pl",
@@ -2727,20 +2767,20 @@
       "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
-      "domain": "ostermaierbrennholz.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Der Fakeshop-Finder warnt vor ostermaierbrennholz.de. Schauen Sie sich die Warnung im Detail an."
-    },
-    {
       "domain": "otto-retouren.de",
       "sources": [
         "verbraucherzentrale.de"
       ],
       "listedSince": "2026-08-28",
       "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
+    },
+    {
+      "domain": "pagatxa.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-17",
+      "note": "Warnung: Dieser Fakeshop wird in Suchmaschinen wie Google oder Bing mit Texten und Produktanzeigen beworben."
     },
     {
       "domain": "paulusbrennholz.com",
@@ -2960,6 +3000,14 @@
       "note": "Fake-Shops wie racineelectromenager.com liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
+      "domain": "rad-held.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-17",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
+    },
+    {
       "domain": "radfit24.com",
       "sources": [
         "verbraucherzentrale.de"
@@ -3143,14 +3191,6 @@
       "note": "Es liegen Erkenntnisse vor, dass es sich bei schumann-markt.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
-      "domain": "scierie-garmier.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Der Fakeshop-Finder warnt vor scierie-garmier.de. Schauen Sie sich die Warnung im Detail an."
-    },
-    {
       "domain": "sciponoe.com",
       "sources": [
         "verbraucherzentrale.de"
@@ -3265,6 +3305,14 @@
       "listedSince": null
     },
     {
+      "domain": "solidewaren.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-08-14",
+      "note": "Es liegen Erkenntnisse vor, dass es sich bei solidewaren.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
+    },
+    {
       "domain": "soniferaheim.de",
       "sources": [
         "verbraucherzentrale.de"
@@ -3336,14 +3384,6 @@
       "note": "Der Fakeshop-Finder warnt vor store.kingslora.com. Schauen Sie sich die Warnung im Detail an."
     },
     {
-      "domain": "store.ternwick.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Der Fakeshop-Finder warnt vor store.ternwick.com. Schauen Sie sich die Warnung im Detail an."
-    },
-    {
       "domain": "store.woodgroven.com",
       "sources": [
         "verbraucherzentrale.de"
@@ -3388,14 +3428,6 @@
         "trustedshops.de"
       ],
       "listedSince": null
-    },
-    {
-      "domain": "talidix.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei talidix.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
       "domain": "taotdzhi.shop",
@@ -3590,14 +3622,6 @@
       "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
-      "domain": "vision-velo.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Fake-Shops wie vision-velo.com liefern nicht oder es kommt nur minderwertige Ware."
-    },
-    {
       "domain": "vita-pflege.de",
       "sources": [
         "trustedshops.de"
@@ -3719,14 +3743,6 @@
       ],
       "listedSince": "2026-10-28",
       "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
-    },
-    {
-      "domain": "werkswagen-porsche.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Der Fakeshop-Finder warnt vor werkswagen-porsche.de. Schauen Sie sich die Warnung im Detail an."
     },
     {
       "domain": "werkzeug-und-maschinen.com",
@@ -3868,28 +3884,12 @@
       "note": "Der Fakeshop-Finder warnt vor ysa-handels.com. Schauen Sie sich die Warnung im Detail an."
     },
     {
-      "domain": "yzorigwl.shop",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Der Fakeshop-Finder warnt vor yzorigwl.shop. Schauen Sie sich die Warnung im Detail an."
-    },
-    {
       "domain": "zenpa.shop",
       "sources": [
         "verbraucherzentrale.de"
       ],
       "listedSince": "2026-10-30",
       "note": "Der Fakeshop-Finder warnt vor zenpa.shop. Schauen Sie sich die Warnung im Detail an."
-    },
-    {
-      "domain": "zeols.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Die Verbraucherzentrale warnt vor zeols.com."
     },
     {
       "domain": "znvzhsbw.shop",
