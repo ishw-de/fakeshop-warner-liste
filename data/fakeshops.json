@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T13:09:07.399Z",
+  "generatedAt": "2026-11-20T13:00:56.745Z",
   "sourceUrls": {
     "watchlist-internet.at": "https://www.watchlist-internet.at/liste-betruegerischer-shops/",
     "trustedshops.de": "https://www.trustedshops.de/fake-shops/",
     "verbraucherzentrale.de": "https://warnung.fakeshop-finder.de/"
   },
-  "count": 28137,
+  "count": 28158,
   "shops": [
     {
       "domain": "0el-preiswert-kaufen.de",
@@ -5179,7 +5179,7 @@
       "sources": [
         "watchlist-internet.at"
       ],
-      "listedSince": "2025-06-25"
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "alskdrmo.shop",
@@ -10350,6 +10350,13 @@
       "listedSince": "2026-11-18"
     },
     {
+      "domain": "at0994.hglcl.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
+    },
+    {
       "domain": "at1.andkea.com",
       "sources": [
         "watchlist-internet.at"
@@ -11337,6 +11344,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-10-30"
+    },
+    {
+      "domain": "automala.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "automaxx-de.com",
@@ -12541,7 +12555,7 @@
         "watchlist-internet.at",
         "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-06-29",
+      "listedSince": "2026-10-21",
       "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
@@ -18884,14 +18898,6 @@
       "listedSince": "2023-02-22"
     },
     {
-      "domain": "bike-striptechnology.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei bike-striptechnology.de um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
-    },
-    {
       "domain": "bike-verwaltungs.de",
       "sources": [
         "watchlist-internet.at"
@@ -19024,14 +19030,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-12-19"
-    },
-    {
-      "domain": "bikecouture.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Die Verbraucherzentrale warnt vor bikecouture.de."
     },
     {
       "domain": "bikecozy.com",
@@ -22078,14 +22076,6 @@
       "listedSince": "2026-01-13"
     },
     {
-      "domain": "boostertresor.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei boostertresor.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
-    },
-    {
       "domain": "bootedcowboy.com",
       "sources": [
         "watchlist-internet.at"
@@ -23614,7 +23604,7 @@
         "watchlist-internet.at",
         "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-09-23",
+      "listedSince": "2026-10-06",
       "note": "Der Fakeshop-Finder warnt vor brennholzullrich.com. Schauen Sie sich die Warnung im Detail an."
     },
     {
@@ -26166,6 +26156,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2022-08-17"
+    },
+    {
+      "domain": "cafiros.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "cafivo.com",
@@ -29010,6 +29007,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-12-23"
+    },
+    {
+      "domain": "cgholzhandel.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-19",
+      "note": "Die Verbraucherzentrale warnt vor cgholzhandel.de."
     },
     {
       "domain": "cgsell.xyz",
@@ -33510,14 +33515,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-05-23"
-    },
-    {
-      "domain": "containercst-gmbh.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-23",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "containerdhggmbh.de",
@@ -38164,6 +38161,13 @@
       "listedSince": "2024-01-17"
     },
     {
+      "domain": "decafcoffeelab.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
+    },
+    {
       "domain": "decarbondeluxe.shop",
       "sources": [
         "watchlist-internet.at"
@@ -38862,6 +38866,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-01-01"
+    },
+    {
+      "domain": "deklarstein.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "deko-traum.shop",
@@ -40793,6 +40804,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-04"
+    },
+    {
+      "domain": "diecontainergmbh.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "diedirndlmachero.shop",
@@ -44073,6 +44091,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-12-10"
+    },
+    {
+      "domain": "dritanalselastore.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "drivedressy.shop",
@@ -50306,6 +50331,14 @@
       "note": "Es liegen Erkenntnisse vor, dass es sich bei escobike.shop um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
+      "domain": "escooterweltt.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-19",
+      "note": "Fake-Shops wie escooterweltt.de liefern nicht oder es kommt nur minderwertige Ware."
+    },
+    {
       "domain": "esdxsa.com",
       "sources": [
         "watchlist-internet.at"
@@ -50360,6 +50393,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-09-28"
+    },
+    {
+      "domain": "eshop.elvaritaro.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "eshop.maplecrofta.com",
@@ -54925,6 +54965,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-08-31"
+    },
+    {
+      "domain": "fassungakku.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "fasswolf.shop",
@@ -71516,6 +71563,13 @@
       "listedSince": "2022-10-12"
     },
     {
+      "domain": "handyakkuset.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
+    },
+    {
       "domain": "handyfamilytool.com",
       "sources": [
         "watchlist-internet.at"
@@ -84669,6 +84723,13 @@
       "note": "Auf der Seite  jcs-technologies.de werden Computer-Bauteile wie Grafikkarten zu marktunüblichen Niedrigpreisen angeboten. Hier wird aber auch Werkzeug, Spielzeug, Haushaltsgeräte, Rucksäcke und vieles andere mehr auf fast 1.800 Seiten präsentiert. Einzige Bezahlart ist Vorkasse!"
     },
     {
+      "domain": "jcs-technologies24.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
+    },
+    {
       "domain": "jcvfepbr.shop",
       "sources": [
         "watchlist-internet.at"
@@ -87221,6 +87282,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-03-20"
+    },
+    {
+      "domain": "kaffemaschinen.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "kaffemiko.shop",
@@ -95329,6 +95397,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-22"
+    },
+    {
+      "domain": "lanigo.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-19",
+      "note": "Fake-Shops wie lanigo.de liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
       "domain": "lankagrandtours.com",
@@ -116513,6 +116589,13 @@
       "listedSince": "2026-11-04"
     },
     {
+      "domain": "neonlichterdesign.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
+    },
+    {
       "domain": "neopass.de",
       "sources": [
         "watchlist-internet.at"
@@ -120537,6 +120620,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-22"
+    },
+    {
+      "domain": "nuvessafit.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "nuvexpertlab.com",
@@ -149518,6 +149608,13 @@
       "listedSince": "2021-10-06"
     },
     {
+      "domain": "samenschmitz.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
+    },
+    {
       "domain": "samesignalu.com",
       "sources": [
         "watchlist-internet.at"
@@ -150888,6 +150985,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-22"
+    },
+    {
+      "domain": "scheitholz.store",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "schellenschmie.de",
@@ -157027,6 +157131,13 @@
       "listedSince": "2023-04-11"
     },
     {
+      "domain": "sibiluna.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
+    },
+    {
       "domain": "sibuyan.de",
       "sources": [
         "watchlist-internet.at"
@@ -162614,6 +162725,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2022-09-25"
+    },
+    {
+      "domain": "ssgjw.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "sskkl.shop",
@@ -168804,6 +168922,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-06-12"
+    },
+    {
+      "domain": "tagesrhythmus.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "tagestrips.at",
@@ -178201,6 +178326,13 @@
       "listedSince": "2025-10-08"
     },
     {
+      "domain": "tryhealthbar.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
+    },
+    {
       "domain": "trykiyao.com",
       "sources": [
         "watchlist-internet.at"
@@ -186945,6 +187077,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-12-01"
+    },
+    {
+      "domain": "vollpension.live",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-19"
     },
     {
       "domain": "vollversionsoftware.shop",
@@ -196073,6 +196212,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-10-09"
+    },
+    {
+      "domain": "zauberbeam.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-19",
+      "note": "Die Verbraucherzentrale warnt vor zauberbeam.de."
     },
     {
       "domain": "zaubergartenpro.com",
