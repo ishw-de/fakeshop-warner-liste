@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:43:48.344Z",
+  "generatedAt": "2026-11-23T14:42:04.447Z",
   "sourceUrls": {
     "watchlist-internet.at": "https://www.watchlist-internet.at/liste-betruegerischer-shops/",
     "trustedshops.de": "https://www.trustedshops.de/fake-shops/",
@@ -78841,9 +78841,11 @@
     {
       "domain": "hortura.de",
       "sources": [
-        "watchlist-internet.at"
+        "watchlist-internet.at",
+        "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-06-12"
+      "listedSince": "2026-06-12",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "horzesshop.top",
@@ -130907,11 +130909,9 @@
     {
       "domain": "pelletpoint77gmbh.de",
       "sources": [
-        "watchlist-internet.at",
-        "verbraucherzentrale.de"
+        "watchlist-internet.at"
       ],
-      "listedSince": "2026-09-17",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
+      "listedSince": "2026-09-22"
     },
     {
       "domain": "pellets-anhanger-premium.de",
