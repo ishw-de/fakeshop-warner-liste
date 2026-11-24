@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T14:42:04.447Z",
+  "generatedAt": "2026-11-24T15:00:34.795Z",
   "sourceUrls": {
     "watchlist-internet.at": "https://www.watchlist-internet.at/liste-betruegerischer-shops/",
     "trustedshops.de": "https://www.trustedshops.de/fake-shops/",
     "verbraucherzentrale.de": "https://warnung.fakeshop-finder.de/"
   },
-  "count": 28171,
+  "count": 28197,
   "shops": [
     {
       "domain": "0el-preiswert-kaufen.de",
@@ -3476,6 +3476,13 @@
       "listedSince": "2025-01-01"
     },
     {
+      "domain": "akkuledlampe.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "akkusaugerprada.de",
       "sources": [
         "watchlist-internet.at"
@@ -3516,14 +3523,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-10-27"
-    },
-    {
-      "domain": "aknowi.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-28",
-      "note": "Fake-Shops wie aknowi.de liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
       "domain": "akronreia.com",
@@ -10930,6 +10929,13 @@
       "listedSince": "2024-08-21"
     },
     {
+      "domain": "auingerforst.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "aum-worlo.shop",
       "sources": [
         "watchlist-internet.at"
@@ -15398,6 +15404,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-08-07"
+    },
+    {
+      "domain": "beamerbild.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "beamsvogue.com",
@@ -31298,6 +31311,13 @@
       "listedSince": "2023-07-03"
     },
     {
+      "domain": "clarksschuhe.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "clarksschuhewien.at",
       "sources": [
         "watchlist-internet.at"
@@ -42873,6 +42893,13 @@
       "listedSince": "2026-11-04"
     },
     {
+      "domain": "domkavelo.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "dommels.de",
       "sources": [
         "watchlist-internet.at"
@@ -46450,6 +46477,13 @@
       "listedSince": "2023-08-16"
     },
     {
+      "domain": "edelsporttraining.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "edenetimtv.com",
       "sources": [
         "watchlist-internet.at"
@@ -47327,13 +47361,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-12-20"
-    },
-    {
-      "domain": "eiswerk.shop",
-      "sources": [
-        "watchlist-internet.at"
-      ],
-      "listedSince": "2026-11-11"
     },
     {
       "domain": "ejakojast.shop",
@@ -55569,11 +55596,9 @@
     {
       "domain": "felino-sport.de",
       "sources": [
-        "watchlist-internet.at",
-        "verbraucherzentrale.de"
+        "watchlist-internet.at"
       ],
-      "listedSince": "2026-05-08",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei felino-sport.de um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
+      "listedSince": "2026-05-09"
     },
     {
       "domain": "felitos.de",
@@ -60375,6 +60400,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2024-12-03"
+    },
+    {
+      "domain": "friedensnest.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "friedrich-motorenundersatzteile.de",
@@ -65412,6 +65444,13 @@
       "listedSince": "2021-01-26"
     },
     {
+      "domain": "getelrem.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "getfashionnew.com",
       "sources": [
         "watchlist-internet.at"
@@ -70364,6 +70403,13 @@
       "listedSince": "2026-11-04"
     },
     {
+      "domain": "gvedzfar.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "gw-style.com",
       "sources": [
         "watchlist-internet.at"
@@ -72275,6 +72321,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-22"
+    },
+    {
+      "domain": "hartlerfeld-ki.io",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-23",
+      "note": "Die Verbraucherzentrale warnt vor hartlerfeld-ki.io."
     },
     {
       "domain": "hartmann-versand.shop",
@@ -78841,11 +78895,9 @@
     {
       "domain": "hortura.de",
       "sources": [
-        "watchlist-internet.at",
-        "verbraucherzentrale.de"
+        "watchlist-internet.at"
       ],
-      "listedSince": "2026-06-12",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
+      "listedSince": "2026-06-12"
     },
     {
       "domain": "horzesshop.top",
@@ -87217,6 +87269,13 @@
       "listedSince": "2026-06-12"
     },
     {
+      "domain": "kaffeegenussonline.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "kaffeemacher.shop",
       "sources": [
         "watchlist-internet.at"
@@ -93317,6 +93376,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-08-18"
+    },
+    {
+      "domain": "kreativperlen.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "kreativtravel.de",
@@ -105459,6 +105525,13 @@
       "listedSince": "2023-05-26"
     },
     {
+      "domain": "maschlix.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "mashilt.com",
       "sources": [
         "watchlist-internet.at"
@@ -105919,6 +105992,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-04"
+    },
+    {
+      "domain": "maxfashionmode.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "maxfoodglobal.com",
@@ -122687,6 +122767,14 @@
       "listedSince": "2021-03-23"
     },
     {
+      "domain": "ohnerezept.eu",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-23",
+      "note": "Der Fakeshop-Finder warnt vor ohnerezept.eu. Schauen Sie sich die Warnung im Detail an."
+    },
+    {
       "domain": "ohospitale.com",
       "sources": [
         "watchlist-internet.at"
@@ -129091,6 +129179,13 @@
       "listedSince": "2022-11-23"
     },
     {
+      "domain": "packvalue.systkip.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "pacsunsouthafrica.co.za",
       "sources": [
         "watchlist-internet.at"
@@ -130909,9 +131004,11 @@
     {
       "domain": "pelletpoint77gmbh.de",
       "sources": [
-        "watchlist-internet.at"
+        "watchlist-internet.at",
+        "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-09-22"
+      "listedSince": "2026-09-17",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "pellets-anhanger-premium.de",
@@ -131650,6 +131747,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-22"
+    },
+    {
+      "domain": "petsend.execturm.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "petshops1.com",
@@ -133630,6 +133734,13 @@
       "listedSince": "2025-09-22"
     },
     {
+      "domain": "playmobil-online.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "playmobilspielzeug.com",
       "sources": [
         "watchlist-internet.at"
@@ -133831,6 +133942,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-05-27"
+    },
+    {
+      "domain": "plueschtierliebe.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "plumbcrazywife.com",
@@ -137877,6 +137995,13 @@
       "listedSince": "2024-08-21"
     },
     {
+      "domain": "pureleiol.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "pureleis.com",
       "sources": [
         "watchlist-internet.at"
@@ -140546,6 +140671,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2023-05-12"
+    },
+    {
+      "domain": "rautnerwert-ki.io",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-23",
+      "note": "Die Verbraucherzentrale warnt vor rautnerwert-ki.io."
     },
     {
       "domain": "ravenciax.shop",
@@ -145596,6 +145729,7 @@
     {
       "domain": "rogntwxw.shop",
       "sources": [
+        "watchlist-internet.at",
         "verbraucherzentrale.de"
       ],
       "listedSince": "2026-11-20",
@@ -153121,6 +153255,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-04"
+    },
+    {
+      "domain": "seivkgbc.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "sekeymall.shop",
@@ -163798,6 +163939,14 @@
       "listedSince": "2026-04-26"
     },
     {
+      "domain": "stg-beratung.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-23",
+      "note": "Die Verbraucherzentrale warnt vor stg-beratung.de."
+    },
+    {
       "domain": "stickerei-dz.de",
       "sources": [
         "watchlist-internet.at"
@@ -171587,6 +171736,13 @@
       "listedSince": "2022-01-10"
     },
     {
+      "domain": "thefandco.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "thefightprotection.com",
       "sources": [
         "watchlist-internet.at"
@@ -173696,6 +173852,13 @@
       "listedSince": "2026-01-21"
     },
     {
+      "domain": "timbuk2.com.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "timbuktours.de",
       "sources": [
         "watchlist-internet.at"
@@ -173953,14 +174116,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2022-02-07"
-    },
-    {
-      "domain": "tischlereijache-shop.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-30",
-      "note": "Die Verbraucherzentrale warnt vor tischlereijache-shop.de."
     },
     {
       "domain": "tischprofi.com",
@@ -179248,6 +179403,13 @@
       "listedSince": "2023-11-02"
     },
     {
+      "domain": "uebertopf.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "uekoplanet.com",
       "sources": [
         "watchlist-internet.at"
@@ -179647,6 +179809,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-02-08"
+    },
+    {
+      "domain": "ulvenz-ki.io",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-23",
+      "note": "Es liegen Erkenntnisse vor, dass es sich bei ulvenz-ki.io um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
       "domain": "ulwbwifv.shop",
@@ -180081,14 +180251,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-08-18"
-    },
-    {
-      "domain": "universalsack.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-29",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei universalsack.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
       "domain": "universjouets.com",
@@ -183882,6 +184044,13 @@
       "listedSince": "2026-11-16"
     },
     {
+      "domain": "velouriana.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
+    },
+    {
       "domain": "velozenit.com",
       "sources": [
         "watchlist-internet.at"
@@ -184248,6 +184417,7 @@
     {
       "domain": "verlinggroup.com",
       "sources": [
+        "watchlist-internet.at",
         "verbraucherzentrale.de"
       ],
       "listedSince": "2026-10-02",
@@ -185071,6 +185241,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2023-12-21"
+    },
+    {
+      "domain": "viennavita.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "vierjahreszeiten-versand.com",
@@ -191539,14 +191716,6 @@
       "listedSince": "2025-11-13"
     },
     {
-      "domain": "wiga-pharma.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-29",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
-    },
-    {
       "domain": "wigcreate.com",
       "sources": [
         "watchlist-internet.at"
@@ -192597,6 +192766,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2022-10-18"
+    },
+    {
+      "domain": "wohndasign.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "wohnelektro.com",
@@ -196459,6 +196635,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-01-29"
+    },
+    {
+      "domain": "zeitstiluhren.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-23"
     },
     {
       "domain": "zeitzeigerin.com",
