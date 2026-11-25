@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:00:34.795Z",
+  "generatedAt": "2026-11-25T14:26:26.625Z",
   "sourceUrls": {
     "watchlist-internet.at": "https://www.watchlist-internet.at/liste-betruegerischer-shops/",
     "trustedshops.de": "https://www.trustedshops.de/fake-shops/",
@@ -10936,6 +10936,14 @@
       "listedSince": "2026-11-23"
     },
     {
+      "domain": "auktionshaus-reichmann.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-09",
+      "note": "Das auktionshaus-reichmann.de gibt sich auf seiner Homepage als seriöses und traditionsreiches Auktionshaus. Vorsicht, ein Impressum existiert nicht. Die Telefonnummer ist nicht vergeben und die Postanschrift ist fraglich. Einzige Kontaktoption ist ein E-Mail-Formular."
+    },
+    {
       "domain": "aum-worlo.shop",
       "sources": [
         "watchlist-internet.at"
@@ -11299,14 +11307,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-16"
-    },
-    {
-      "domain": "autohaus-temuer.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-30",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "autohauselsdorf.de",
@@ -12175,6 +12175,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-08-26"
+    },
+    {
+      "domain": "avelofahrrad.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-20",
+      "note": "Es liegen Erkenntnisse vor, dass es sich bei avelofahrrad.de um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
       "domain": "avemstorede.shop",
@@ -16153,6 +16161,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-01-26"
+    },
+    {
+      "domain": "beliebteapotheken.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-09",
+      "note": "Auf über 4.100 Seiten wird bei beliebteapotheken.com alles für den medizinischen-, zahnärztlichen und pflegerischen Bedarf angeboten. Man kann dort auch nicht verschreibungspflichtige Medikamente, Körperpflegemittel und Dekoartikel erstehen. Das alles wird zu unwahrscheinlich günstige Preisen angeboten. Ein ordnungsgemäßes Impressum sucht man vergebens. Einzige Kontaktmöglichkeit ist eine E-Mail-Adresse. Man kann also nicht erkennen, wer den Shop betreibt und wo dieser sitzt."
     },
     {
       "domain": "belizal.com",
@@ -23472,6 +23488,14 @@
       "listedSince": "2026-04-19"
     },
     {
+      "domain": "brennholzhandelgerhold.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-12",
+      "note": "Es liegen Erkenntnisse vor, dass es sich bei brennholzhandelgerhold.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
+    },
+    {
       "domain": "brennholzhandelmartens.com",
       "sources": [
         "watchlist-internet.at"
@@ -23646,14 +23670,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2023-11-03"
-    },
-    {
-      "domain": "brennkiste.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-30",
-      "note": "Fake-Shops wie brennkiste.de liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
       "domain": "brennstoffe-heinrich.de",
@@ -44603,6 +44619,14 @@
       "listedSince": "2025-09-22"
     },
     {
+      "domain": "dtbsajsa.shop",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-20",
+      "note": "Warnung: Dieser Fakeshop wird in Suchmaschinen wie Google oder Bing mit Texten und Produktanzeigen beworben."
+    },
+    {
       "domain": "dtf-transferdruk.shop",
       "sources": [
         "watchlist-internet.at"
@@ -55265,6 +55289,14 @@
       "listedSince": "2022-11-08"
     },
     {
+      "domain": "fb-holz.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-20",
+      "note": "Warnung: Dieser Fakeshop wird in Suchmaschinen wie Google oder Bing mit Texten und Produktanzeigen beworben."
+    },
+    {
       "domain": "fb.goldengoosefan.com",
       "sources": [
         "watchlist-internet.at"
@@ -56074,14 +56106,6 @@
       "note": "Fake-Shops wie feuerholzkiste.de liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
-      "domain": "feuerholzliebe.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-30",
-      "note": "Der Fakeshop-Finder warnt vor feuerholzliebe.de. Schauen Sie sich die Warnung im Detail an."
-    },
-    {
       "domain": "feuerund-holz.de",
       "sources": [
         "verbraucherzentrale.de"
@@ -56599,14 +56623,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-03-18"
-    },
-    {
-      "domain": "finbefund.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-30",
-      "note": "Fake-Shops wie finbefund.de liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
       "domain": "finca-selection.com",
@@ -67352,6 +67368,14 @@
       "listedSince": "2023-12-15"
     },
     {
+      "domain": "gold-outlet24.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-16",
+      "note": "Fake-Shops wie gold-outlet24.com liefern nicht oder es kommt nur minderwertige Ware."
+    },
+    {
       "domain": "gold-realm.ru.com",
       "sources": [
         "watchlist-internet.at"
@@ -77506,14 +77530,6 @@
       "listedSince": "2022-10-14"
     },
     {
-      "domain": "holzregional.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-30",
-      "note": "Die Verbraucherzentrale warnt vor holzregional.de."
-    },
-    {
       "domain": "holzscheitenatur.com",
       "sources": [
         "watchlist-internet.at"
@@ -79745,14 +79761,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2022-10-14"
-    },
-    {
-      "domain": "hselbe-fahrrad.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-09-30",
-      "note": "Der Fakeshop-Finder warnt vor hselbe-fahrrad.de. Schauen Sie sich die Warnung im Detail an."
     },
     {
       "domain": "hshndxdi.shop",
@@ -84083,6 +84091,14 @@
       "listedSince": "2021-10-21"
     },
     {
+      "domain": "ixsdwprg.shop",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-23",
+      "note": "Die Verbraucherzentrale warnt vor ixsdwprg.shop."
+    },
+    {
       "domain": "iyaqag.com",
       "sources": [
         "watchlist-internet.at"
@@ -87739,9 +87755,11 @@
     {
       "domain": "kaminholz-wohnort.com",
       "sources": [
-        "watchlist-internet.at"
+        "watchlist-internet.at",
+        "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-11-18"
+      "listedSince": "2026-11-17",
+      "note": "Warnung: Dieser Fakeshop wird in Suchmaschinen wie Google oder Bing mit Texten und Produktanzeigen beworben."
     },
     {
       "domain": "kaminholzdirekt.ch",
@@ -92408,6 +92426,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-02-17"
+    },
+    {
+      "domain": "kochmeister.store",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-20",
+      "note": "Fake-Shops wie kochmeister.store liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
       "domain": "kochtails.shop",
@@ -97712,14 +97738,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2022-03-11"
-    },
-    {
-      "domain": "lesboisdubreuil.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Die Verbraucherzentrale warnt vor lesboisdubreuil.com."
     },
     {
       "domain": "lesboost.shop",
@@ -111875,14 +111893,6 @@
       "listedSince": "2024-09-17"
     },
     {
-      "domain": "mollerbrennholzhandelgmbh.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
-    },
-    {
       "domain": "mollmarzipangmbh.com",
       "sources": [
         "watchlist-internet.at"
@@ -114236,14 +114246,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-22"
-    },
-    {
-      "domain": "musicianshop.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Auf der Website musicianshop.de kann man angeblich hochwertige Musikinstrumente zu extrem günstigen Preisen kaufen. Vorsicht, ein ordnungsgemäßes Impressum sucht man vergebens. Es gibt nur eine Mail-Adresse, sodass nicht ersichtlich ist, wer den Online-Shop tatsächlich betreibt. An der genannten Postadresse existiert dieses Geschäft nicht. Zahlung nur per Paypal oder Kreditkarte möglich."
     },
     {
       "domain": "musicmodish.com",
@@ -120614,6 +120616,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-06-29"
+    },
+    {
+      "domain": "numarver-muenzen.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-10",
+      "note": "Es liegen Erkenntnisse vor, dass es sich bei numarver-muenzen.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
       "domain": "nunuwax.top",
@@ -131004,11 +131014,9 @@
     {
       "domain": "pelletpoint77gmbh.de",
       "sources": [
-        "watchlist-internet.at",
-        "verbraucherzentrale.de"
+        "watchlist-internet.at"
       ],
-      "listedSince": "2026-09-17",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
+      "listedSince": "2026-09-22"
     },
     {
       "domain": "pellets-anhanger-premium.de",
@@ -136271,14 +136279,6 @@
       "listedSince": "2025-09-22"
     },
     {
-      "domain": "primini.shop",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Die Verbraucherzentrale warnt vor primini.shop."
-    },
-    {
       "domain": "primistore.com",
       "sources": [
         "watchlist-internet.at"
@@ -139614,14 +139614,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-09"
-    },
-    {
-      "domain": "racineelectromenager.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Fake-Shops wie racineelectromenager.com liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
       "domain": "racinghelmetde.com",
@@ -147084,14 +147076,6 @@
       "listedSince": "2022-01-12"
     },
     {
-      "domain": "rundholzdirekt.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
-    },
-    {
       "domain": "rundummobil.de",
       "sources": [
         "watchlist-internet.at"
@@ -152558,14 +152542,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-04"
-    },
-    {
-      "domain": "sciponoe.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Die Verbraucherzentrale warnt vor sciponoe.com."
     },
     {
       "domain": "sclothesbrand.com",
@@ -160483,11 +160459,9 @@
     {
       "domain": "solidewaren.com",
       "sources": [
-        "watchlist-internet.at",
-        "verbraucherzentrale.de"
+        "watchlist-internet.at"
       ],
-      "listedSince": "2026-08-14",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei solidewaren.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
+      "listedSince": "2026-11-02"
     },
     {
       "domain": "solidish.top",
@@ -161305,11 +161279,9 @@
     {
       "domain": "sparhaustechnik.de",
       "sources": [
-        "watchlist-internet.at",
-        "verbraucherzentrale.de"
+        "watchlist-internet.at"
       ],
-      "listedSince": "2026-08-26",
-      "note": "Es liegen Erkenntnisse vor, dass es sich bei sparhaustechnik.de um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
+      "listedSince": "2026-08-28"
     },
     {
       "domain": "sparhimmel24.de",
@@ -183308,9 +183280,11 @@
     {
       "domain": "variloshop.shop",
       "sources": [
-        "watchlist-internet.at"
+        "watchlist-internet.at",
+        "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-11-04"
+      "listedSince": "2026-11-04",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "variousball.com",
@@ -190716,9 +190690,11 @@
     {
       "domain": "werkelio.de",
       "sources": [
-        "watchlist-internet.at"
+        "watchlist-internet.at",
+        "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-11-18"
+      "listedSince": "2026-11-12",
+      "note": "Der Fakeshop-Finder warnt vor werkelio.de. Schauen Sie sich die Warnung im Detail an."
     },
     {
       "domain": "werkgeist.com",
@@ -193548,6 +193524,14 @@
       "listedSince": "2024-08-27"
     },
     {
+      "domain": "wooud.de",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-09",
+      "note": "Auf der Website wooud.de werden Räucherwerk, Parfüms und Duftöle aus dem orientalischen Raum angeboten. Vorsicht, ein ordnungsgemäßes Impressum wird nicht angezeigt, ebenso wenig wie Kontaktdaten, Zahlungsarten und Versandhinweise. Es ist nicht ersichtlich ist, wer den Online-Shop tatsächlich betreibt und wo diese Firma sitzt."
+    },
+    {
       "domain": "wopilopro.shop",
       "sources": [
         "watchlist-internet.at"
@@ -194779,6 +194763,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2023-03-29"
+    },
+    {
+      "domain": "xo-solution.fr",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-18",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "xobefo.shop",
@@ -196825,6 +196817,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-20"
+    },
+    {
+      "domain": "zeraphino.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-20",
+      "note": "Der Fakeshop-Finder warnt vor zeraphino.com. Schauen Sie sich die Warnung im Detail an."
     },
     {
       "domain": "zerognecklacede.shop",
