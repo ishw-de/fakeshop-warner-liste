@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T14:26:26.625Z",
+  "generatedAt": "2026-11-26T14:02:35.562Z",
   "sourceUrls": {
     "watchlist-internet.at": "https://www.watchlist-internet.at/liste-betruegerischer-shops/",
     "trustedshops.de": "https://www.trustedshops.de/fake-shops/",
     "verbraucherzentrale.de": "https://warnung.fakeshop-finder.de/"
   },
-  "count": 28197,
+  "count": 28232,
   "shops": [
     {
       "domain": "0el-preiswert-kaufen.de",
@@ -482,6 +482,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2022-08-18"
+    },
+    {
+      "domain": "4m-reifen.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "4rainfast.shop",
@@ -2416,14 +2423,6 @@
       "listedSince": "2021-03-09"
     },
     {
-      "domain": "aerzteregistrat.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Unter aerzteregistrat.de können sich Arztpraxen unabhängig von Kammern und Kassen für eine maximale Sichtbarkeit im Internet kostenpflichtig erfassen lassen. Patientinnen und Patienten haben dann die Möglichkeit, über das Portal kostenfrei nach Medizinerinnen und Medizinern aller Fachrichtungen zu suchen, ebenso nach Apotheken. Vorsicht, ein ordnungsgemäßes Impressum sucht man für die Seite vergebens. Es gibt nur eine Mail-Adresse, sodass nicht ersichtlich ist, wer die Seite wirklich betreibt. Es wird zwar eine Adresse in London/ UK aufgeführt, die ist aber mehr als fraglich."
-    },
-    {
       "domain": "aestheticawall.com",
       "sources": [
         "watchlist-internet.at"
@@ -3031,6 +3030,13 @@
         "trustedshops.de"
       ],
       "listedSince": null
+    },
+    {
+      "domain": "aiakku.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "aiapp2025.com",
@@ -10201,6 +10207,13 @@
       "listedSince": "2021-10-12"
     },
     {
+      "domain": "astronelectro.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "asvgu.at",
       "sources": [
         "watchlist-internet.at"
@@ -11307,6 +11320,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-16"
+    },
+    {
+      "domain": "autohaus-wustenberg.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "autohauselsdorf.de",
@@ -13005,14 +13025,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-06-22"
-    },
-    {
-      "domain": "backenundsuben.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Unter der URL backenundsuben.com wird ein unüberschaubares Angebot an Backzutaten, Alkoholika und Bio-Lebensmitteln aller Art zu mehr als günstigen Preisen verkauft. Vorsicht, ein ordnungsgemäßes Impressum sucht man vergebens. Es gibt nur eine Mail-Adresse, sodass nicht ersichtlich ist, wer den Online-Shop tatsächlich betreibt."
     },
     {
       "domain": "backformen-sale.com",
@@ -23187,6 +23199,13 @@
       "listedSince": "2023-02-01"
     },
     {
+      "domain": "bravuk.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "braxzt.com",
       "sources": [
         "watchlist-internet.at"
@@ -26720,9 +26739,11 @@
     {
       "domain": "campinglagea.com",
       "sources": [
-        "watchlist-internet.at"
+        "watchlist-internet.at",
+        "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-10-12"
+      "listedSince": "2026-10-12",
+      "note": "Es liegen Erkenntnisse vor, dass es sich bei campinglagea.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
       "domain": "campinglampenbillig.com",
@@ -27090,6 +27111,13 @@
       "listedSince": "2026-11-04"
     },
     {
+      "domain": "cannamaniac.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "cannamenghi.com",
       "sources": [
         "watchlist-internet.at"
@@ -27263,13 +27291,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-04-02"
-    },
-    {
-      "domain": "carbonphone.de",
-      "sources": [
-        "watchlist-internet.at"
-      ],
-      "listedSince": "2026-11-04"
     },
     {
       "domain": "carbonphonepro.com",
@@ -42194,14 +42215,6 @@
       "listedSince": "2025-09-22"
     },
     {
-      "domain": "diyhandels-de.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
-    },
-    {
       "domain": "diymalennachzahlen.shop",
       "sources": [
         "watchlist-internet.at"
@@ -42386,9 +42399,11 @@
     {
       "domain": "dm-bauhandel.de",
       "sources": [
-        "watchlist-internet.at"
+        "watchlist-internet.at",
+        "verbraucherzentrale.de"
       ],
-      "listedSince": "2026-11-13"
+      "listedSince": "2026-11-12",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "dmarketsale.com",
@@ -43026,14 +43041,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-22"
-    },
-    {
-      "domain": "doormey.myshopify.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Der Fakeshop-Finder warnt vor doormey.myshopify.com. Schauen Sie sich die Warnung im Detail an."
     },
     {
       "domain": "doorsorwindows.com",
@@ -45450,14 +45457,6 @@
       "listedSince": "2023-03-30"
     },
     {
-      "domain": "e24-shopech.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Die Verbraucherzentrale warnt vor e24-shopech.com."
-    },
-    {
       "domain": "eacsquash.fr",
       "sources": [
         "watchlist-internet.at"
@@ -47532,6 +47531,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2024-05-21"
+    },
+    {
+      "domain": "elbmarkt.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "eldestore.de",
@@ -50174,6 +50180,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-04"
+    },
+    {
+      "domain": "erlenhof-brennholz.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "erleschuhe.shop",
@@ -53639,6 +53652,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-02-18"
+    },
+    {
+      "domain": "fahrvolt.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "fahrzeugcamp.com",
@@ -60714,13 +60734,6 @@
       "listedSince": "2025-09-16"
     },
     {
-      "domain": "fruechtepfluecken.ch",
-      "sources": [
-        "watchlist-internet.at"
-      ],
-      "listedSince": "2024-06-05"
-    },
-    {
       "domain": "fruitsteasales.com",
       "sources": [
         "watchlist-internet.at"
@@ -64626,6 +64639,13 @@
       "listedSince": "2026-11-16"
     },
     {
+      "domain": "gelzauber.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "gemstarz.company.site",
       "sources": [
         "watchlist-internet.at"
@@ -67416,14 +67436,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2024-03-05"
-    },
-    {
-      "domain": "goldbesitz.com",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-03",
-      "note": "Die Verbraucherzentrale warnt vor goldbesitz.com."
     },
     {
       "domain": "goldblackde.shop",
@@ -75601,6 +75613,13 @@
       "listedSince": "2025-03-05"
     },
     {
+      "domain": "highendoddities.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "highglosssideboard.com",
       "sources": [
         "watchlist-internet.at"
@@ -77138,6 +77157,13 @@
       "listedSince": "2026-11-04"
     },
     {
+      "domain": "holyyvhg.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "holz-aluprofi.de",
       "sources": [
         "watchlist-internet.at"
@@ -77564,14 +77590,6 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2023-05-25"
-    },
-    {
-      "domain": "holzwaermedirekt.de",
-      "sources": [
-        "verbraucherzentrale.de"
-      ],
-      "listedSince": "2026-10-02",
-      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "holzwaldenergie.com",
@@ -81379,6 +81397,15 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-04"
+    },
+    {
+      "domain": "ihrbrennholz.com",
+      "sources": [
+        "watchlist-internet.at",
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-25",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
     },
     {
       "domain": "ihreanhanger.com",
@@ -87791,6 +87818,13 @@
       "listedSince": "2023-05-25"
     },
     {
+      "domain": "kaminholzkomfort.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "kaminj.top",
       "sources": [
         "watchlist-internet.at"
@@ -94095,6 +94129,14 @@
       "listedSince": "2023-10-19"
     },
     {
+      "domain": "kullerpfote.store",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-25",
+      "note": "Der Fakeshop-Finder warnt vor kullerpfote.store. Schauen Sie sich die Warnung im Detail an."
+    },
+    {
       "domain": "kultur-bike.com",
       "sources": [
         "watchlist-internet.at"
@@ -95348,6 +95390,13 @@
       "listedSince": "2025-09-22"
     },
     {
+      "domain": "landhausdeko-posch.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "landhomedecor.com",
       "sources": [
         "watchlist-internet.at"
@@ -95522,6 +95571,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-03-17"
+    },
+    {
+      "domain": "lannertmarkt.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "lantana-handel.com",
@@ -103129,6 +103185,13 @@
       "listedSince": "2026-06-12"
     },
     {
+      "domain": "maerzde.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "mafiatekno.com",
       "sources": [
         "watchlist-internet.at"
@@ -103331,6 +103394,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2022-04-06"
+    },
+    {
+      "domain": "mahertechnik.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "mahle-ek.com",
@@ -104223,6 +104293,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-04"
+    },
+    {
+      "domain": "mannstasc.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-25",
+      "note": "Es liegen Erkenntnisse vor, dass es sich bei mannstasc.com um einen Fakeshop handelt. Erfahren Sie Näheres unter dem folgenden Link."
     },
     {
       "domain": "manoloblahnik-osterreich.com",
@@ -106572,6 +106650,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2022-10-12"
+    },
+    {
+      "domain": "mebdeo.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "mebtechprofi.com",
@@ -120738,6 +120823,13 @@
       "listedSince": "2026-11-04"
     },
     {
+      "domain": "nutricartdirect.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "nuttytoolpart.com",
       "sources": [
         "watchlist-internet.at"
@@ -121500,6 +121592,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-06-11"
+    },
+    {
+      "domain": "oekoranch.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "oekowohn.com",
@@ -129210,6 +129309,13 @@
       "listedSince": "2026-10-15"
     },
     {
+      "domain": "paddelbrettdetails.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "padelfreunde.shop",
       "sources": [
         "watchlist-internet.at"
@@ -129251,6 +129357,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2024-10-30"
+    },
+    {
+      "domain": "pagiboshop.at",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "pagsm.shop",
@@ -135654,6 +135767,13 @@
       "listedSince": "2022-04-25"
     },
     {
+      "domain": "ppberlin.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "ppifxcxa.shop",
       "sources": [
         "watchlist-internet.at"
@@ -137269,6 +137389,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-04"
+    },
+    {
+      "domain": "prosnap.systkip.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "prospeedbike.com",
@@ -144226,6 +144353,13 @@
       "listedSince": "2022-11-03"
     },
     {
+      "domain": "rhadvexon.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "rhayyelnews.shop",
       "sources": [
         "watchlist-internet.at"
@@ -144771,6 +144905,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2024-05-24"
+    },
+    {
+      "domain": "rihhlkuk.shop",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "riiokya.shop",
@@ -153632,6 +153773,13 @@
       "listedSince": "2021-08-10"
     },
     {
+      "domain": "sensecap.io",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "sensefums.com",
       "sources": [
         "watchlist-internet.at"
@@ -155424,6 +155572,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-09-07"
+    },
+    {
+      "domain": "shop.drmartenbootseu.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "shop.freerus.live",
@@ -159575,6 +159730,13 @@
       "listedSince": "2026-09-15"
     },
     {
+      "domain": "snkavenue.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "snksinc.de",
       "sources": [
         "watchlist-internet.at"
@@ -161877,6 +162039,14 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-11-04"
+    },
+    {
+      "domain": "spiritprofi.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-25",
+      "note": "Fake-Shops wie spiritprofi.com liefern nicht oder es kommt nur minderwertige Ware."
     },
     {
       "domain": "spirits-official.com",
@@ -166268,6 +166438,14 @@
       "listedSince": "2025-09-22"
     },
     {
+      "domain": "stylemarketz.com",
+      "sources": [
+        "verbraucherzentrale.de"
+      ],
+      "listedSince": "2026-11-25",
+      "note": "Die im Impressum genannte Firmenadresse wurde von einer existierenden Firma kopiert. Diese hat nichts mit dem Fake-Shop zu tun und ist selbst Opfer."
+    },
+    {
       "domain": "styleoli.com",
       "sources": [
         "watchlist-internet.at"
@@ -169798,6 +169976,7 @@
     {
       "domain": "tawagold.store",
       "sources": [
+        "watchlist-internet.at",
         "verbraucherzentrale.de"
       ],
       "listedSince": "2026-11-20",
@@ -177019,6 +177198,13 @@
       "listedSince": "2025-09-04"
     },
     {
+      "domain": "trachtenhemdvibe.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "trachtensale.com",
       "sources": [
         "watchlist-internet.at"
@@ -177185,6 +177371,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2025-09-22"
+    },
+    {
+      "domain": "tradingtfcgoods.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "tradiomarket.com",
@@ -178768,6 +178961,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2021-03-16"
+    },
+    {
+      "domain": "tuerschlossratgeber.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "tuftex-balloons.com",
@@ -190667,6 +190867,13 @@
       "listedSince": "2026-10-29"
     },
     {
+      "domain": "werkbau24.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "werkbedarf24.de",
       "sources": [
         "watchlist-internet.at"
@@ -190980,6 +191187,13 @@
       "listedSince": "2023-01-27"
     },
     {
+      "domain": "werkzeugkammer.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "werkzeugland.com",
       "sources": [
         "watchlist-internet.at"
@@ -191125,6 +191339,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2023-05-25"
+    },
+    {
+      "domain": "weshowtech.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "westcinch.com",
@@ -191676,6 +191897,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-07-06"
+    },
+    {
+      "domain": "wiesndress.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "wiesnkinder.de",
@@ -193019,6 +193247,13 @@
       "listedSince": "2026-05-29"
     },
     {
+      "domain": "wolfganggmbh.de",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "wolfgardenshop.com",
       "sources": [
         "watchlist-internet.at"
@@ -194051,6 +194286,13 @@
       "listedSince": "2024-08-21"
     },
     {
+      "domain": "wuhndirect.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
+    },
+    {
       "domain": "wuhnish.com",
       "sources": [
         "watchlist-internet.at"
@@ -194714,6 +194956,13 @@
         "watchlist-internet.at"
       ],
       "listedSince": "2026-08-20"
+    },
+    {
+      "domain": "xmasschmuck.com",
+      "sources": [
+        "watchlist-internet.at"
+      ],
+      "listedSince": "2026-11-25"
     },
     {
       "domain": "xn--apotheke-sterreich-l3b.com",
